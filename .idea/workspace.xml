@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sources/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sources/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sources/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/sources/Deque.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +88,12 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/home/eoanermine/algorithms_part_one_laboratories_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/home/eoanermine/algorithms_part_one_laboratories_2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Permutation">
+}</component>
+  <component name="RunManager" selected="Application.Deque">
     <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deque" />
       <module name="Algorithms, Part I" />
@@ -117,9 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deque" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.RandomizedQueue" />
-        <item itemvalue="Application.Deque" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678532813110</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implement Queue and Stack">
+      <created>1678534249074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678534249074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -168,5 +176,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Implement Queue and Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Queue and Stack" />
   </component>
 </project>
